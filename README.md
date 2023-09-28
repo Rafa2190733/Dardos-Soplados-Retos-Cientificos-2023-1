@@ -8,7 +8,7 @@ En la carpeta Códigos de Simulación se irán poniendo los diferentes códigos 
 ## Integrantes:
 - Rafael Blanco Pedraza
 - Angela Michelly Perdomo
-- Paula Juliana
+- Paula Juliana Niño
 
 ## Semestre
 2023-1
