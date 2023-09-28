@@ -10,8 +10,13 @@ En la carpeta Códigos de Simulación se irán poniendo los diferentes códigos 
 - Angela Michelly Perdomo
 - Paula Juliana
 
+## Semestre
+2023-1
+
 ## Propuesta de investigación
-**LINK**: https://www.overleaf.com/read/ytsgwznmrkqy
+**LINK:** https://www.overleaf.com/read/ytsgwznmrkqy
 
 ## Presentación 
-LINK: 
+**LINK:** https://docs.google.com/presentation/d/12VnOLXIIENOWd-zCLEq6tGln7Yp22Nw8y-BWEHofDqE/edit?usp=sharing
+
+
