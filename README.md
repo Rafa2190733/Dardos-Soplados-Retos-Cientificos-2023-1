@@ -11,7 +11,7 @@ En la carpeta Códigos de Simulación se irán poniendo los diferentes códigos 
 - Paula Juliana
 
 ## Propuesta de investigación
-LINK: https://www.overleaf.com/read/ytsgwznmrkqy
+**LINK**: https://www.overleaf.com/read/ytsgwznmrkqy
 
 ## Presentación 
 LINK: 
